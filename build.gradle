@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.glencoesoftware'
-version = '0.13.0-SNAPSHOT'
+version = '0.13.0-CV7000-SNAPSHOT'
 
 application {
   mainClass = 'com.glencoesoftware.bioformats2raw.Converter'
